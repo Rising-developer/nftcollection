@@ -54,8 +54,7 @@ Update the following variables in the "src/components/my_nft_collection.vue" fil
 - app_id: <'your-app-id'>
 - contract_address: <'the-contract-address'>
 - network: <the-network-id>
-id and txhash for each nft:
-- ids_hashes: {<id>: <'txhash'>}
+- ids_hashes: {<id>: <'txhash'>} //id and txhash for each nft
 
 Depending on the blockchain network you are going to use, you will have to update the link in this tag in the "my_nft_collection.vue" file:
 
