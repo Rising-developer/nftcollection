@@ -50,11 +50,11 @@ if you want to learn more about Vue CLI, go to: https://cli.vuejs.org/config/
 
 Update the following variables in the "src/components/my_nft_collection.vue" file with your data:
 
-- api_key: <'your-api-key'>
-- app_id: <'your-app-id'>
-- contract_address: <'the-contract-address'>
-- network: <the-network-id>
-- ids_hashes: {<id>: <'txhash'>}
+api_key: <'your-api-key'>
+app_id: <'your-app-id'>
+contract_address: <'the-contract-address'>
+network: <the-network-id>
+ids_hashes: {<id>: <'txhash'>}
 
 Depending on the blockchain network you are going to use, you will have to update the link in this tag in the "my_nft_collection.vue" file:
 
