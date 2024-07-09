@@ -11,23 +11,26 @@ This is a Vue.js (Vue3) project to display an NFT collection with the help of Vo
 
 ## Project Setup
 
-1. Clone the Repository
+1. Clone the Repository:
    git clone https://github.com/Rising-developer/nftcollection
    cd nftcollection
 
 2. Install Vue CLI (if not already installed):
+   npm install -g @vue/cli
+   or
+   yarn global add @vue/cli
 
-3. Install Dependencies:      
+4. Install Dependencies:      
    npm install
    or
    yarn install
 
-4. Run the Development Server:
+5. Run the Development Server:
    npm run serve
    or
    yarn serve
 
-5. Open the App:
+6. Open the App:
    Open your browser and navigate to http://localhost:8080 (or the URL provided in the console).
 
 ## Building for Production (optional)
