@@ -7,6 +7,7 @@ This is a Vue.js (Vue3) project to display an NFT collection with the help of Vo
 - Node.js (>= 12.x)
 - npm (>= 6.x) or yarn (>= 1.x)
 - Vue CLI (>= 4.x)
+- git
 
 ## Project Setup
 
