@@ -57,9 +57,9 @@ Update the following variables in the "src/components/my_nft_collection.vue" fil
 - ids_hashes
 
 The variable "ids_hashes" is a dictionary for the id and txhash of each nft, with the "id" as the key and the "txhash" as the value.
-Depending on the blockchain network you are going to use, you will have to update the link in this tag in the "my_nft_collection.vue" file:
+Depending on the blockchain network you are going to use, you will have to update this link in the "my_nft_collection.vue" file:
 
-- <a :href="`https://amoy.polygonscan.com/tx/${nftItem.txhash}`" target="_blank">View Transaction</a>
+- https://amoy.polygonscan.com/tx/${nftItem.txhash}
 
 Additionally, you can use your own background image (with a Vottun ipfs link for example). For that you need to update the following line in the style section of the "my_nft_collection.vue" file:
 
