@@ -37,7 +37,7 @@ To build the project for production, run:
    or
    yarn build
 
-## Lints and fixes files (optional)
+## Linting and fixing files (optional)
    npm run lint
 
 if you want to learn more about Vue CLI, go to: https://cli.vuejs.org/config/
