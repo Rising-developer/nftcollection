@@ -63,4 +63,4 @@ Depending on the blockchain network you are going to use, you will have to updat
 
 Additionally, you can use your own background image (with a Vottun ipfs link for example). For that you need to update the following line in the style section of the "my_nft_collection.vue" file:
 
-- background-image: url('https://ipfsgw.vottun.tech/ipfs/bafkreifztrs2eolmvj6rmrfygncu4pkvek4ewovvgrnwlavhjilw57m6oa');
+- background-image: url('<the_url_to_your_image>');
