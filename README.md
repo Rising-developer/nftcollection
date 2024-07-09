@@ -17,16 +17,19 @@ This is a Vue.js (Vue3) project to display an NFT collection with the help of Vo
 
 2. Install Vue CLI (if not already installed):
    - npm install -g @vue/cli
+
      or
    - yarn global add @vue/cli
 
 3. Install Dependencies:      
    - npm install
+
      or
    - yarn install
 
 4. Run the Development Server:
    - npm run serve
+
      or
    - yarn serve
 
