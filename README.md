@@ -12,8 +12,8 @@ This is a Vue.js (Vue3) project to display an NFT collection with the help of Vo
 ## Project Setup
 
 1. Clone the Repository
-   git clone <your-repo-url>
-   cd <your-repo-folder>:
+   git clone https://github.com/Rising-developer/nftcollection
+   cd nftcollection
 
 2. Install Vue CLI (if not already installed):
 
